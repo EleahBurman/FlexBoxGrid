@@ -4,6 +4,7 @@ body {
 
 main, div, footer, header {
   border: black 1px solid;
+  border: transparent
 }
 
 main {
@@ -17,6 +18,7 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border: transparent
 }
 
 img {
